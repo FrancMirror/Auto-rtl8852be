@@ -1,1 +1,2 @@
-# Auto--rtl8852be
+# Script made by @francmirror, 
+## to automate installation  WLAN network interface error
