@@ -29,7 +29,7 @@ sudo modprobe 8852be
 
 My social medias
 
-| Plugin | README |
+| Social medias | Links |
 | ------ | ------ |
 | Github | https://github.com/FrancMirror|
 | Twitter | https://twitter.com/francmirror |
