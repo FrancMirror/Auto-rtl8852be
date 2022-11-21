@@ -44,7 +44,7 @@ My social medias
 
 MIT
 
-**Free Software my friend!!!**
+**Free Softwarecto power!!**
 
 ![Image text](https://img.helpnetsecurity.com/wp-content/uploads/2021/05/06144957/open-source-code-hns.jpg)
  
